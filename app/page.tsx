@@ -18,8 +18,10 @@ export default function Home() {
         </div>
       </nav>
 
-      <main className="flex-1 flex items-center justify-center w-full overflow-auto">
-        <p className="text-lg text-zinc-600 dark:text-zinc-400">this page is a WIP rn ok chill</p>
+      <main className="flex-1 flex flex-col items-center justify-center w-full overflow-auto gap-4">
+        <p className="text-lg text-zinc-600 dark:text-zinc-400">Building the Future,</p>
+        <p className="text-lg text-zinc-600 dark:text-zinc-400">One Kernel at a Time</p>
+        <p className="text-sm text-zinc-400 dark:text-zinc-400">A city of Ottawa Premier Vex Robotics Team 2381</p>
       </main>
 
       <div className="fixed top-16 left-1/2 -translate-x-1/2 -translate-y-1/2 z-50 flex flex-col items-center gap-6 text-center">
